@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e537b83d-a74c-422c-848a-fe67272cd8d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/StateFiscalPolicy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/contractionSolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/gaussHermite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/utilsNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/_main_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processes/autoregressiveOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processes/stochProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/representativeAgent/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/representativeAgent/repAgent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main/_main_.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jvcTqCLF4gbk7ItidGkGq6T3WI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;PyScientificConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e537b83d-a74c-422c-848a-fe67272cd8d8" name="Changes" comment="" />
+      <created>1722271001200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722271001200</updated>
+      <workItem from="1722271002531" duration="14932000" />
+      <workItem from="1722340474604" duration="194000" />
+      <workItem from="1722512142366" duration="28981000" />
+      <workItem from="1722695915878" duration="61000" />
+      <workItem from="1722695987033" duration="1034000" />
+      <workItem from="1722697039229" duration="270000" />
+      <workItem from="1722697318462" duration="12385000" />
+      <workItem from="1723028586027" duration="12060000" />
+      <workItem from="1723112077555" duration="4853000" />
+      <workItem from="1723124830114" duration="2759000" />
+      <workItem from="1723151673579" duration="2164000" />
+      <workItem from="1723191924660" duration="6056000" />
+      <workItem from="1723198390989" duration="2384000" />
+      <workItem from="1723236547830" duration="3296000" />
+      <workItem from="1723281092244" duration="9521000" />
+      <workItem from="1723304110878" duration="13326000" />
+      <workItem from="1723322616852" duration="7497000" />
+      <workItem from="1723368225300" duration="14989000" />
+      <workItem from="1723388189922" duration="12109000" />
+      <workItem from="1723480636152" duration="11718000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
